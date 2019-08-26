@@ -1,4 +1,4 @@
-edit one
+it one
 
 edit two
 
@@ -10,4 +10,10 @@ edit five
 
 edit six
 
+
 edit seven in a new Branch
+this is dev content
+
+edit seven in a new Branch
+
+ a new branch edit
