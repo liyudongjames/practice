@@ -1,1 +1,5 @@
-///  this use to test no fast forward mode
+//  this use to test no fast forward mode
+
+// bug fixed
+
+// bug fixed twice
